@@ -27,5 +27,6 @@ func main(){
 	fmt.Println("x=",x)
 	fmt.Println("x > 3 && x < 7 =", x > 3 && x < 7)
 	fmt.Println("x < 3 || x > 7 =", x < 3 || x > 7)
+	
 
 }
