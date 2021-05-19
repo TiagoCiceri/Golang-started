@@ -13,4 +13,7 @@ func main(){
 	pos.y = 51
 	fmt.Println(pos)
 	fmt.Println(pos.x)
+
+	posic := Posicao{y: 77, x: 180}
+	fmt.Println(posic)
 }
